@@ -1,0 +1,1174 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"info",
+				"infowindow"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"t",
+				"td	text-decoration"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"inli",
+				"inline-table"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"gall",
+				"galleria_ID"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"page",
+				"page-head"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"get_templ",
+				"get_template_directory"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"p",
+				"prodotti"
+			],
+			[
+				"wp_lis",
+				"wp_list_categories"
+			],
+			[
+				"af",
+				"af	:after"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"entr",
+				"entry-content"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"theloop",
+				"theloop	The Loop"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"get_tem",
+				"get_template_part"
+			],
+			[
+				"hei",
+				"hei	height"
+			],
+			[
+				"a",
+				"accordion"
+			],
+			[
+				"in",
+				"indirizzo"
+			],
+			[
+				"menu",
+				"menuLibro"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"get_cat",
+				"get_category_link"
+			],
+			[
+				"img",
+				"img_blog"
+			],
+			[
+				"op",
+				"option_val"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"templ",
+				"template_dir"
+			],
+			[
+				"get_te",
+				"get_template_directory"
+			],
+			[
+				"vimeo",
+				"vimeo_id"
+			],
+			[
+				"is_page",
+				"is_page_template"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"get_teml",
+				"get_template_part"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"list-t",
+				"list-style"
+			],
+			[
+				"thepo",
+				"the_post_thumbnail"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"top",
+				"text-top"
+			],
+			[
+				"get_templat",
+				"get_template_part"
+			],
+			[
+				"ne",
+				"next_page_n"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"is_st",
+				"is_sticky"
+			],
+			[
+				"the_e",
+				"the_excerpt"
+			],
+			[
+				"get_tax",
+				"get_taxonomy"
+			],
+			[
+				"par",
+				"parentCatName"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"align",
+				"alignleft"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"men",
+				"menu_data"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"the",
+				"the_permalink"
+			],
+			[
+				"the_c",
+				"the_content"
+			],
+			[
+				"get_he",
+				"get_header"
+			],
+			[
+				"regiter_na",
+				"register_nav_menu"
+			],
+			[
+				"get_st",
+				"get_stylesheet_uri"
+			],
+			[
+				"comp",
+				"competenze"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wo",
+				"workexperience"
+			],
+			[
+				"wor",
+				"workexperiencelist"
+			],
+			[
+				"em",
+				"empty2nl"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"cv",
+				"cvxml"
+			],
+			[
+				"backgroung",
+				"background-image"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"no",
+				"no-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/templates/page.tpl.php",
+			"settings":
+			{
+				"buffer_size": 7579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/templates/page--front.tpl.php",
+			"settings":
+			{
+				"buffer_size": 7832,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/css/style.css",
+			"settings":
+			{
+				"buffer_size": 75960,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/template.php",
+			"settings":
+			{
+				"buffer_size": 990,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/mtcad.info",
+			"settings":
+			{
+				"buffer_size": 702,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/js/application.js",
+			"settings":
+			{
+				"buffer_size": 1912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/js/custom_checkbox_and_radio.js",
+			"settings":
+			{
+				"buffer_size": 1638,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"b",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pag",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html",
+				"Snippet: QUnit HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"serve",
+				"SFTP: Edit Server…"
+			],
+			[
+				"serv",
+				"SFTP: Edit Server…"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sft",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"crea",
+				"Create Xiki Buffer"
+			],
+			[
+				"Snippet: php",
+				"Snippet: The Loop (PHP)"
+			],
+			[
+				"Snippet: wp",
+				"Snippet: WP Config (complete)"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/luca/htdocs/Drupal/drupal-7.22/modules/system/page.tpl.php",
+		"/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/js/application.js",
+		"/home/luca/htdocs/Drupal/drupal-7.22/modules/system/region.tpl.php",
+		"/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/templates/block.tpl.php",
+		"/home/luca/htdocs/Drupal/drupal-7.22/modules/block/block.tpl.php",
+		"/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/templates/region--slider2.tpl.php",
+		"/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/html.tpl.php",
+		"/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/template.php",
+		"/home/luca/htdocs/Drupal/drupal-7.22/themes/bartik/templates/node.tpl.php",
+		"/home/luca/htdocs/Drupal/drupal-7.22/themes/bartik/templates/page.tpl.php",
+		"/home/luca/web/mtcad_new/css/flat-ui.css",
+		"/home/luca/web/mtcad_new/css/bootstrap-responsive.css",
+		"/home/luca/web/mtcad_new/mtcad2.html",
+		"/tmp/sublime-sftp-browse-1372327901/ethicalbeauty/www.ethicalbeauty.it/wp-config.php",
+		"/home/luca/web/mtcad_new/css/style.css",
+		"/home/luca/web/mtcad_new/mtcad.html",
+		"/home/luca/web/mtcad_new/css/bootstrap.css",
+		"/home/luca/web/vagrant/Vagrantfile",
+		"/tmp/sublime-sftp-browse-1372161075/magnabook/magazine/wp-content/themes/magnabookmag/page-contest.php",
+		"/tmp/sublime-sftp-browse-1372161144/magnabook/magazine/wp-content/themes/magnabookmag/content.php",
+		"/home/luca/htdocs/MBmagazine/wp-content/themes/magnabookmag/page-contest.php",
+		"/home/luca/htdocs/Pico-master/content/ciao.md",
+		"/home/luca/htdocs/Pico-master/config.php",
+		"/home/luca/htdocs/Pico-master/themes/default/index.html",
+		"/home/luca/htdocs/kirbycms-master/site/panel/accounts/luca.php",
+		"/home/luca/htdocs/kirbycms-master/site/panel/accounts/admin.php",
+		"/home/luca/htdocs/kirbycms-master/site/config/config.php",
+		"/home/luca/htdocs/kirbycms-master/.htaccess",
+		"/home/luca/htdocs/Pico-master/content/index.html",
+		"/home/luca/.config/sublime-text-2/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/footer.php",
+		"/tmp/sublime-sftp-browse-1371634650/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/footer.php",
+		"/tmp/sublime-sftp-browse-1371631510/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1371630941/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/dimore.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/dimore.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1371630886/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/inc/js/functions.js",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/header.php",
+		"/tmp/sublime-sftp-browse-1371583254/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1371583330/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/inc/js/functions.js",
+		"/tmp/sublime-sftp-browse-1371583302/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/header.php",
+		"/tmp/sublime-sftp-browse-1371583321/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/footer.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/page-slider.php",
+		"/tmp/sublime-sftp-browse-1371562603/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/page-slider.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/page-categoria.php",
+		"/tmp/sublime-sftp-browse-1371561529/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/footer.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/page-guestbook.php",
+		"/tmp/sublime-sftp-browse-1371561231/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/page-categoria.php",
+		"/tmp/sublime-sftp-browse-1371402775/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1371401173/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/home/luca/web/DRUPAL/pure/js/script.js",
+		"/home/luca/web/DRUPAL/pure/style.css",
+		"/home/luca/web/DRUPAL/pure/index.html",
+		"/home/luca/htdocs/Drupal/drupal-7.18/themes/bartik/templates/page.tpl.php",
+		"/home/luca/htdocs/Drupal/drupal-7.18/themes/bartik/bartik.info",
+		"/home/luca/htdocs/Drupal/drupal-7.18/themes/bartik/template.php",
+		"/tmp/sublime-sftp-browse-1371200257/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1371200412/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/dimore.php",
+		"/tmp/sublime-sftp-browse-1371153763/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/dimore.php",
+		"/tmp/sublime-sftp-browse-1371157099/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/inc/css/media-queries.css",
+		"/tmp/sublime-sftp-browse-1371151439/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1371064154/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1371047915/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/functions.php",
+		"/tmp/sublime-sftp-browse-1371048060/acquarioroma/public_html/animeasud/wp-content/plugins/nextgen-gallery/view/album-lightbox.php",
+		"/tmp/sublime-sftp-browse-1371046952/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1371046863/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/footer.php",
+		"/home/luca/htdocs/MBmagazine/wp-content/themes/magnabookmag/style.css",
+		"/home/luca/htdocs/MBmagazine/wp-content/themes/magnabookmag/functions.php",
+		"/home/luca/htdocs/MBmagazine/wp-content/themes/magnabookmag/content-single.php",
+		"/tmp/sublime-sftp-browse-1371038879/magnabook/magazine/wp-content/themes/magnabookmag/style.css",
+		"/tmp/sublime-sftp-browse-1371038946/magnabook/magazine/wp-content/themes/magnabookmag/functions.php",
+		"/tmp/sublime-sftp-browse-1371039139/magnabook/magazine/wp-content/themes/magnabookmag/page-contest.php",
+		"/tmp/sublime-sftp-browse-1371039051/magnabook/magazine/wp-content/themes/magnabookmag/content-single.php",
+		"/home/luca/htdocs/MBmagazine/wp-content/themes/magnabookmag/index.php",
+		"/home/luca/htdocs/MBmagazine/wp-content/themes/magnabookmag/single.php",
+		"/home/luca/htdocs/MBmagazine/wp-content/themes/magnabookmag/rtl.css",
+		"/home/luca/htdocs/bettino2.10/install.php",
+		"/home/luca/htdocs/l4/laravel/app/routes.php",
+		"/home/luca/htdocs/l4/laravel/app/views/hello.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/inc/js/mb.am.bgndGallery.js",
+		"/home/luca/web/animeasud/inc/js/jquery.imagesloaded.min.js",
+		"/home/luca/documents/conservatorio/barber",
+		"/home/luca/web/magnabook/snippets.css",
+		"/tmp/sublime-sftp-browse-1370364297/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/footer.php",
+		"/tmp/sublime-sftp-browse-1370364045/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/page-slider.php",
+		"/tmp/sublime-sftp-browse-1370366957/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/page-categoria.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/news.php",
+		"/tmp/sublime-sftp-browse-1370343323/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1370342366/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/page.php",
+		"/home/luca/web/gelatoincasa.m/style.css",
+		"/home/luca/web/gelatoincasa.m/post.html",
+		"/home/luca/web/gelatoincasa.m/index.html",
+		"/home/luca/web/gelatoincasa_new/master/stylesheets/foundation.css",
+		"/home/luca/web/gelatoincasa_new/master/stylesheets/app.css",
+		"/home/luca/web/gelatoincasa.m/css/inuit.css/objects/_grids.scss",
+		"/home/luca/web/gelatoincasa.m/css/inuit.css/_inuit.scss",
+		"/home/luca/web/gelatoincasa.m/css/inuit.css/_defaults.scss",
+		"/home/luca/web/gelatoincasa.m/css/inuit.css/objects/_beautons.scss",
+		"/home/luca/web/gelatoincasa.m/css/_vars.scss",
+		"/home/luca/web/gelatoincasa.m/css/style.scss",
+		"/tmp/sublime-sftp-browse-1369823734/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/tmp/sublime-sftp-browse-1369823717/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/dimore.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/page-dimore.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/page.php",
+		"/tmp/sublime-sftp-browse-1369819668/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/page.php",
+		"/tmp/sublime-sftp-browse-1369816490/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/style.css",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/inc/css/media-queries.css",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/page-home.php",
+		"/tmp/sublime-sftp-browse-1369815187/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/inc/js/functions.js",
+		"/tmp/sublime-sftp-browse-1369812526/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/footer.php",
+		"/tmp/sublime-sftp-browse-1369813155/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/page-guestbook.php",
+		"/tmp/sublime-sftp-browse-1369811691/acquarioroma/public_html/animeasud/wp-config.php",
+		"/tmp/sublime-sftp-browse-1369812392/acquarioroma/public_html/animeasud/wp-content/themes/animeasud/page-guestbook.php",
+		"/home/luca/.config/sublime-text-2/Packages/User/sftp_servers/acquarioroma",
+		"/tmp/sublime-sftp-browse-1369812067/acquarioroma/public_html/animeasud/wp-settings.php",
+		"/home/luca/htdocs/animeasud/wp-content/themes/animeasud/functions.php",
+		"/home/luca/htdocs/animeasud/wp-content/plugins/nextgen-gallery/view/album-lightbox.php",
+		"/home/luca/web/animeasud/guestbook.html",
+		"/home/luca/web/gelatoincasa.wordpress.2013-03-25.xml",
+		"/home/luca/htdocs/animeasud/wp-content/plugins/nextgen-gallery/view/album-compact.php",
+		"/tmp/sublime-sftp-browse-1369344841/skio/wp-content/themes/skio_en/page-prodotti.php",
+		"/tmp/sublime-sftp-browse-1369344708/skio/wp-content/themes/skio_it/page-prodotti.php",
+		"/home/luca/htdocs/skio_wp/wp-content/themes/skio_it/style.css",
+		"/home/luca/htdocs/skio_wp/wp-content/themes/skio_it/page-prodotti.php",
+		"/tmp/sublime-sftp-browse-1369171777/skio/wp-content/themes/skio_en/page-prodotti.php",
+		"/tmp/sublime-sftp-browse-1369171734/skio/wp-content/themes/skio_en/style.css",
+		"/tmp/sublime-sftp-browse-1369171801/skio/wp-content/themes/skio_en/functions.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"checkbo",
+			"node",
+			"770x450",
+			"3",
+			"5",
+			"p",
+			"glyph",
+			"gliph",
+			"line-h",
+			"consol",
+			"yan",
+			"bg-",
+			"400ms",
+			"4",
+			"out",
+			"in-out",
+			"-out",
+			"rgb(169, 226, 255)",
+			"1f8dd6",
+			"rgb",
+			"31, 141",
+			"logo",
+			"navicon",
+			"pure-g",
+			"...",
+			"button",
+			"thumbn",
+			"div",
+			"fadein",
+			"ajax",
+			"loaded",
+			"bgga",
+			"1",
+			"Ubuntu",
+			"font",
+			"false",
+			"thumb-news",
+			"kimiya_img",
+			"find",
+			"next",
+			"button",
+			"active",
+			"i",
+			"\"",
+			"sort",
+			"span",
+			"label",
+			"curre",
+			"scrol",
+			"pagegal",
+			"padding",
+			"menu-main",
+			"color",
+			"bootstr",
+			"twent",
+			"yt",
+			"/social-icons",
+			"socials",
+			";\n",
+			"3",
+			"3s",
+			"3",
+			"img",
+			"fancy",
+			"jquery",
+			"2rem",
+			"GarogierRegular",
+			"1.8rem",
+			"font-family",
+			"submit",
+			"entry-meta",
+			"url",
+			"src",
+			"#999",
+			"opacity: .2",
+			"opacity: ",
+			"createUpl",
+			"submit",
+			"label",
+			"lable",
+			"label",
+			"user_login_submit",
+			"user_login_submit btn",
+			"submit",
+			".btn ",
+			"aside",
+			"social",
+			"p",
+			"home-news",
+			"1",
+			"valida",
+			"nggShowSlideshow",
+			"'principale'",
+			"ease-in-out",
+			"5",
+			"defaults",
+			"#content",
+			"home ",
+			"home",
+			"h2",
+			"1",
+			"#page-content",
+			"displa",
+			"block",
+			"#page-content",
+			"#page-content	",
+			"#page-content",
+			"page-content",
+			"list-style",
+			"list",
+			"submenu",
+			"top",
+			"initform",
+			"today",
+			"datepi",
+			"inc/",
+			"telefono",
+			"indirizzo",
+			" */",
+			"page-content",
+			"h1",
+			"toggle",
+			"addsc",
+			"tin",
+			"accordion",
+			"5",
+			"flex",
+			"margin-bottom: 5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/templates/page.tpl.php",
+					"settings":
+					{
+						"buffer_size": 7579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5604,
+								5604
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1812.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/templates/page--front.tpl.php",
+					"settings":
+					{
+						"buffer_size": 7832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5826,
+								5826
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1647.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/css/style.css",
+					"settings":
+					{
+						"buffer_size": 75960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75793,
+								75793
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 43993.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/template.php",
+					"settings":
+					{
+						"buffer_size": 990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/mtcad.info",
+					"settings":
+					{
+						"buffer_size": 702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/js/application.js",
+					"settings":
+					{
+						"buffer_size": 1912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/luca/htdocs/Drupal/drupal-7.22/sites/all/themes/mtcad/js/custom_checkbox_and_radio.js",
+					"settings":
+					{
+						"buffer_size": 1638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1556,
+								1556
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}
